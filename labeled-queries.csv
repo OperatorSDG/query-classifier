@@ -1,0 +1,229 @@
+query,label
+Find emails with PDF attachments,gmail
+Show me unread messages in my inbox,gmail
+When is my next meeting with the design team?,calendar
+Show me all events scheduled for next Tuesday,calendar
+Show me my sent emails from last month,gmail
+Find my meetings for June 2025,calendar
+Search for emails from John about the budget,gmail
+Show me emails I flagged last week,gmail
+Find all emails with image attachments,gmail
+Look for messages with subject 'invoice',gmail
+Get emails from noreply@service.com,gmail
+Show me my drafts,gmail
+Find promotions emails from last month,gmail
+Search all emails with zip attachments,gmail
+Show all messages in the Social tab,gmail
+List emails labeled 'Work',gmail
+Find the last email from HR,gmail
+Search emails with word 'urgent' in subject,gmail
+Show unread messages from the last 2 days,gmail
+Find messages I archived yesterday,gmail
+Search for emails sent to Alice,gmail
+List emails received today,gmail
+Show messages I deleted this week,gmail
+Find starred messages from February,gmail
+Get all emails containing the word 'receipt',gmail
+Find emails that I marked as important,gmail
+Search emails with Excel files attached,gmail
+List all unread emails from last month,gmail
+Search for the email chain with Bob,gmail
+Find all newsletters I subscribed to,gmail
+Show messages from team@company.com,gmail
+Show my meetings from last week,calendar
+List all events scheduled for Friday,calendar
+Find the team meeting next month,calendar
+When is the project deadline meeting?,calendar
+Show appointments with Dr. Patel,calendar
+List recurring events this year,calendar
+Find calendar invites I declined,calendar
+Show all-day events in July,calendar
+What’s on my calendar this weekend?,calendar
+Find my next recurring meeting,calendar
+Search events where I’m marked optional,calendar
+When is the quarterly planning session?,calendar
+List upcoming events this month,calendar
+Find lunch meetings scheduled this week,calendar
+Show me my past 5 meetings,calendar
+Find meetings with the keyword 'budget',calendar
+What time is my call with Japan?,calendar
+Show calendar events tagged as personal,calendar
+List all meetings I’ve accepted,calendar
+Show calendar for next Monday,calendar
+When is my next appointment with the dentist?,calendar
+Find events between March 1 and March 5,calendar
+Show team meetings in the afternoon,calendar
+What meetings do I have after 3 PM?,calendar
+List events scheduled on public holidays,calendar
+Find my conversation from yesterday,gmail
+What did I talk about last Tuesday?,calendar
+Show messages or events about the quarterly review,calendar
+Did I get any updates from HR today?,gmail
+List all activities from this week,calendar
+Find responses from the team meeting,gmail
+Show me the notes from yesterday's meeting,calendar
+Did I reply to the marketing email?,gmail
+When did we last discuss the roadmap?,calendar
+Find any mentions of the product launch,gmail
+Show recent interactions with Sarah,gmail
+Do I have any follow-ups pending?,gmail
+When did I last speak with the recruiter?,gmail
+Search for updates on the event,calendar
+Check if I missed anything from Monday,calendar
+List things related to the design discussion,calendar
+Look up last week's communication,gmail
+"Show all mentions of ""Q3 planning""",gmail
+"Search for ""next steps"" in recent items",gmail
+Find everything from my last sync,calendar
+Did I get a calendar reminder for the meeting?,calendar
+Look for any schedule changes,calendar
+What time was I supposed to connect with John?,calendar
+Show history related to the finance review,gmail
+List messages and meetings from yesterday,gmail
+Check for things tagged 'important' recently,gmail
+Find my most recent updates from the team,gmail
+What's the latest interaction with my manager?,gmail
+Was there an invite or message from Legal?,gmail
+Any new activity since last Friday?,gmail
+Do I have any unread invitations?,calendar
+Remind me of the team catch-up,gmail
+Was I supposed to attend anything today?,calendar
+Check follow-ups from this morning,gmail
+Find invites I missed last week,calendar
+Show conversations from last Wednesday,gmail
+List all syncs with Bob this month,calendar
+Do I have any pending replies?,gmail
+Search messages with 'reschedule',gmail
+Do I have a meeting tomorrow?,calendar
+Find all feedback sessions,calendar
+Show emails from past clients,gmail
+Do I have anything on my calendar today?,calendar
+Look up previous sync notes,gmail
+Get the discussion summary from Tuesday,gmail
+Find the planning session with product team,calendar
+What did we schedule for Monday?,calendar
+Show messages with attachments over 5MB,gmail
+Find when we last had a review call,calendar
+When was the design sprint?,calendar
+Search communication from accounting,gmail
+Did I miss any events last week?,calendar
+Find conversation threads about onboarding,gmail
+Get all my emails from February,gmail
+Check if I have a lunch meeting today,calendar
+Do I have any messages from the VP?,gmail
+Look for events with 'strategy' in the name,calendar
+Find all updates on the roadmap,gmail
+Look at recent meeting outcomes,calendar
+Was there a message about budget?,gmail
+Any discussions on marketing last week?,gmail
+Do I have any schedule conflicts?,calendar
+Find everything involving project 'Apollo',gmail
+Was the meeting on Monday or Tuesday?,calendar
+Get all notes shared in recent syncs,gmail
+Do I have any shared meetings this week?,calendar
+What reminders are set for next week?,calendar
+"Search for emails with the word ""schedule""",gmail
+When is the sales follow-up meeting?,calendar
+List all emails exchanged with Paul,gmail
+Find my calendar entries with Lisa,calendar
+Search events labeled as urgent,calendar
+Get my sent messages from Friday,gmail
+Look for blocked time in my calendar,calendar
+Did I email Sarah yesterday?,gmail
+Show meetings I need to RSVP to,calendar
+Check any invites from operations,calendar
+Search for threads marked 'later',gmail
+Find discussions about the launch,calendar
+When was I last looped in on a thread?,gmail
+Remind me of the Monday kickoff,calendar
+Search internal emails about benefits,gmail
+List events tagged 'training',calendar
+Get back to messages from Monday,gmail
+Find the invite about quarterly sync,calendar
+Did I get a response to my follow-up?,gmail
+When was the lunch scheduled?,calendar
+Find messages with receipts from last month,gmail
+Search emails I haven't replied to,gmail
+Get all emails from Dropbox,gmail
+Look for flagged emails from April,gmail
+Find emails about team offsite,gmail
+Show all emails sent on Monday,gmail
+List conversations with James this quarter,gmail
+Search for emails containing budget update,gmail
+Get me emails I sent during Q1,gmail
+Find messages with PDF invoices,gmail
+Show me the last 10 emails from my boss,gmail
+Search for emails with the subject 'meeting notes',gmail
+Find newsletters with the topic 'AI',gmail
+Locate emails tagged as urgent,gmail
+Search for old emails from university,gmail
+Find conversations with attachments over 10MB,gmail
+Get emails with the keyword 'offer',gmail
+Search for emails I opened yesterday,gmail
+Find all messages in the Important folder,gmail
+Show emails related to performance reviews,gmail
+Find messages that include links,gmail
+Search for follow-up threads with John,gmail
+Locate my last message about vacation,gmail
+Get all replies from HR in July,gmail
+Find email threads labeled as 'low priority',gmail
+Search messages sent on a weekend,gmail
+Show email exchange history with Legal,gmail
+List Gmail messages with calendar invites,gmail
+Search emails with meeting summaries,gmail
+List my scheduled events for tomorrow,calendar
+Find all 1-on-1s with my manager,calendar
+What events do I have in the next 3 days?,calendar
+Show meetings marked tentative,calendar
+Check for any cancelled events this week,calendar
+List meetings scheduled before noon,calendar
+Find events titled 'demo' or 'presentation',calendar
+Show me my availability for next Friday,calendar
+When did I meet the new intern?,calendar
+Find future sessions with the client team,calendar
+Show recurring events on my calendar,calendar
+Look up meeting invites for this quarter,calendar
+List sessions marked confidential,calendar
+Show all meetings with the marketing team,calendar
+Check if I'm free after 3 PM today,calendar
+When is the monthly team sync?,calendar
+List events that overlap with lunch hours,calendar
+Search for my one-time events this month,calendar
+Show all meetings scheduled in December,calendar
+List events created by my assistant,calendar
+What's scheduled next Thursday?,calendar
+List multi-day events on my calendar,calendar
+Do I have overlapping meetings today?,calendar
+Show my meeting history with Alice,calendar
+Search my calendar for team reviews,calendar
+Show events scheduled during Diwali week,calendar
+List everything I blocked off in March,calendar
+What events are planned before the release?,calendar
+Show me emails about my upcoming flights,gmail
+Find calendar events with location 'Conference Room A',calendar
+Search for emails with RSVP links,gmail
+List meetings where I am the organizer,calendar
+"Show emails with the word ""invitation""",gmail
+Find events that were cancelled last month,calendar
+Get all emails from Amazon,gmail
+Show me my next doctor's appointment,calendar
+Find emails with Zoom links,gmail
+List all-day events for next week,calendar
+Search for emails sent after 6 PM,gmail
+Show meetings that overlap with lunch,calendar
+"Find emails with the subject ""invoice"" from last year",gmail
+List events with more than 5 attendees,calendar
+Show me emails I haven't responded to,gmail
+Find meetings that were rescheduled,calendar
+Search for emails with attachments larger than 10MB,gmail
+Show me my calendar for the next two weeks,calendar
+Find emails from my manager about salary,gmail
+List meetings with external participants,calendar
+Show messages from yesterday,gmail
+Find my unread messages from last month,gmail
+Show conversations from Monday,gmail
+Get all messages from last week,gmail
+Find attachments received in March,gmail
+Show me my sent items from last Friday,gmail
+Show all recurring meetings,calendar
+List events where I'm marked as optional,calendar
