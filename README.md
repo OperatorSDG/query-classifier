@@ -91,6 +91,25 @@ pip install torch transformers pandas scikit-learn tqdm seaborn matplotlib datep
 - Ambiguous or mixed queries (e.g., "Show me my calendar and emails") are challenging and may require more advanced modeling or labeling.
 - For best results, use a GPU for training.
 
+**Note:**  
+> The interactive widget for live query testing requires the `ipywidgets` library and a Jupyter Notebook environment (such as JupyterLab, Jupyter Notebook, or VS Code with the Jupyter extension).  
+>  
+> If you run the notebook in a plain terminal or an environment that does not support widgets, the interactive features will not work.  
+>  
+> **To enable widgets:**  
+> ```bash
+> pip install ipywidgets
+> #JupyterLab
+> jupyter labextension install @jupyter-widgets/jupyterlab-manager
+> #VScode
+> code --install-extension ms-python.python
+> code --install-extension ms-toolsai.jupyter
+> code --install-extension ms-python.vscode-pylance
+> code --install-extension ms-toolsai.jupyter-keymap
+> code --install-extension ms-toolsai.jupyter-renderers
+> ```
+> For classic Jupyter Notebook, just installing `ipywidgets` is usually sufficient.
+
 ---
     
 ## References
